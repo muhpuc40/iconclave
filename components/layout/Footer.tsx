@@ -26,7 +26,7 @@ export function Footer() {
               width={3750}
               height={1000}
               priority
-              className="h-18 w-auto md:h-11"
+              className="h-10 w-auto md:h-11 lg:h-12"
             />
             <p className="max-w-xs text-sm leading-relaxed text-[#5F6368] mt-5">
               {siteConfig.tagline}
