@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="t d">
+  <title id="t">GoalBot Challenge competition poster</title><desc id="d">Bot. Ball. Battle.</desc>
+  <defs><linearGradient id="g" x1="48" y1="42" x2="1034" y2="1308" gradientUnits="userSpaceOnUse"><stop stop-color="#2C1309"/><stop offset=".5" stop-color="#F06B32"/><stop offset="1" stop-color="#C5229E"/></linearGradient></defs>
+  <rect width="1080" height="1350" rx="48" fill="url(#g)"/><path d="M660 0v460M780 0v460M900 0v460M1020 0v460M600 100h480M600 220h480M600 340h480" stroke="#fff" stroke-opacity=".09" stroke-width="3"/>
+  <text x="86" y="112" fill="#fff" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="5">iCONCLAVE — 2026</text><text x="994" y="112" fill="#fff" fill-opacity=".65" text-anchor="end" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">05 / 06</text>
+  <text x="82" y="462" fill="#fff" font-family="Arial,sans-serif" font-size="125" font-weight="900" letter-spacing="-6">GOALBOT</text><text x="82" y="586" fill="#fff" font-family="Arial,sans-serif" font-size="125" font-weight="900" letter-spacing="-6">CHALLENGE</text>
+  <text x="88" y="682" fill="#FFE0CF" font-family="Arial,sans-serif" font-size="48" font-weight="700">BOT. BALL. BATTLE.</text>
+  <g transform="translate(90 790)" fill="none" stroke="#fff" stroke-width="5"><rect x="38" y="75" width="355" height="214" rx="42"/><circle cx="110" cy="299" r="38" fill="#fff"/><circle cx="322" cy="299" r="38" fill="#fff"/><path d="M107 75V28h220v47M140 152h150M218 152v68" stroke-linecap="round"/><circle cx="726" cy="184" r="118"/><path d="m666 88 120 192M622 184h208M666 280l120-192"/></g>
+  <text x="88" y="1160" fill="#fff" font-family="Arial,sans-serif" font-size="28">Build, compete, and demonstrate</text><text x="88" y="1200" fill="#fff" font-family="Arial,sans-serif" font-size="28">your robotics skills.</text>
+  <text x="88" y="1280" fill="#fff" fill-opacity=".72" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">TEAM SIZE 2–3 · REGISTRATION OPEN</text>
+</svg>

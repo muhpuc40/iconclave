@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="t d">
+  <title id="t">HerTech Hustle competition poster</title><desc id="d">Empower. Triumph. Innovate.</desc>
+  <defs><linearGradient id="g" x1="64" y1="36" x2="1014" y2="1310" gradientUnits="userSpaceOnUse"><stop stop-color="#26091E"/><stop offset=".5" stop-color="#C5229E"/><stop offset="1" stop-color="#6633CC"/></linearGradient></defs>
+  <rect width="1080" height="1350" rx="48" fill="url(#g)"/><circle cx="868" cy="290" r="310" fill="#fff" fill-opacity=".055"/><circle cx="868" cy="290" r="208" fill="none" stroke="#fff" stroke-opacity=".23" stroke-width="3"/>
+  <text x="86" y="112" fill="#fff" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="5">iCONCLAVE — 2026</text><text x="994" y="112" fill="#fff" fill-opacity=".65" text-anchor="end" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">03 / 06</text>
+  <text x="82" y="475" fill="#fff" font-family="Arial,sans-serif" font-size="126" font-weight="900" letter-spacing="-6">HERTECH</text><text x="82" y="601" fill="#fff" font-family="Arial,sans-serif" font-size="126" font-weight="900" letter-spacing="-6">HUSTLE</text>
+  <text x="88" y="700" fill="#FFD0ED" font-family="Arial,sans-serif" font-size="40" font-weight="700" letter-spacing="1">EMPOWER. TRIUMPH. INNOVATE.</text>
+  <g transform="translate(90 815)" fill="none" stroke="#fff"><path d="M0 210h900M80 210V92h150v118M282 210V30h150v180M484 210v-86h150v86M686 210V0h150v210" stroke-width="4"/><circle cx="155" cy="58" r="18" fill="#fff"/><circle cx="357" cy="0" r="18" fill="#fff"/><circle cx="559" cy="90" r="18" fill="#fff"/><circle cx="761" cy="-30" r="18" fill="#fff"/></g>
+  <text x="88" y="1160" fill="#fff" font-family="Arial,sans-serif" font-size="28">Test your knowledge, confidence, and</text><text x="88" y="1200" fill="#fff" font-family="Arial,sans-serif" font-size="28">ability to think under pressure.</text>
+  <text x="88" y="1280" fill="#fff" fill-opacity=".72" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">TEAM SIZE 2–3 · REGISTRATION OPEN</text>
+</svg>

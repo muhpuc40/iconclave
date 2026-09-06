@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="t d">
+  <title id="t">Clash of Projects competition poster</title><desc id="d">Create. Showcase. Inspire.</desc>
+  <defs><linearGradient id="g" x1="60" y1="30" x2="1010" y2="1320" gradientUnits="userSpaceOnUse"><stop stop-color="#171027"/><stop offset=".54" stop-color="#6633CC"/><stop offset="1" stop-color="#C5229E"/></linearGradient></defs>
+  <rect width="1080" height="1350" rx="48" fill="url(#g)"/><path d="M650-80 1130 400 650 880 170 400Z" fill="#fff" fill-opacity=".055"/><path d="M814 72 1016 274 814 476 612 274Z" fill="none" stroke="#fff" stroke-opacity=".25" stroke-width="3"/>
+  <text x="86" y="112" fill="#fff" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="5">iCONCLAVE — 2026</text><text x="994" y="112" fill="#fff" fill-opacity=".65" text-anchor="end" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">02 / 06</text>
+  <text x="82" y="490" fill="#fff" font-family="Arial,sans-serif" font-size="122" font-weight="900" letter-spacing="-6">CLASH OF</text><text x="82" y="614" fill="#fff" font-family="Arial,sans-serif" font-size="122" font-weight="900" letter-spacing="-6">PROJECTS</text>
+  <text x="88" y="710" fill="#FFD2F0" font-family="Arial,sans-serif" font-size="40" font-weight="700" letter-spacing="2">CREATE. SHOWCASE. INSPIRE.</text>
+  <g transform="translate(88 820)" fill="none" stroke="#fff" stroke-width="4"><rect x="0" y="0" width="355" height="238" rx="22"/><path d="M46 190 122 112l62 54 72-95 53 119"/><circle cx="276" cy="62" r="24"/><path d="M415 42h440M415 102h330M415 162h388M415 222h260" stroke-opacity=".6"/></g>
+  <text x="88" y="1160" fill="#fff" font-family="Arial,sans-serif" font-size="28">Present your project and demonstrate</text><text x="88" y="1200" fill="#fff" font-family="Arial,sans-serif" font-size="28">the idea and work behind it.</text>
+  <text x="88" y="1280" fill="#fff" fill-opacity=".72" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">TEAM SIZE 2–3 · REGISTRATION OPEN</text>
+</svg>

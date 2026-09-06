@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="t d">
+  <title id="t">PromptWar competition poster</title><desc id="d">Think. Prompt. Conquer.</desc>
+  <defs><linearGradient id="g" x1="40" y1="40" x2="1020" y2="1300" gradientUnits="userSpaceOnUse"><stop stop-color="#061C32"/><stop offset=".52" stop-color="#1455D9"/><stop offset="1" stop-color="#16A3D8"/></linearGradient></defs>
+  <rect width="1080" height="1350" rx="48" fill="url(#g)"/><g fill="#fff" fill-opacity=".08"><circle cx="900" cy="250" r="260"/><circle cx="900" cy="250" r="174"/><circle cx="900" cy="250" r="88"/></g>
+  <text x="86" y="112" fill="#fff" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="5">iCONCLAVE — 2026</text><text x="994" y="112" fill="#fff" fill-opacity=".65" text-anchor="end" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">04 / 06</text>
+  <text x="82" y="522" fill="#fff" font-family="Arial,sans-serif" font-size="142" font-weight="900" letter-spacing="-7">PROMPT</text><text x="82" y="662" fill="#fff" font-family="Arial,sans-serif" font-size="142" font-weight="900" letter-spacing="-7">WAR</text>
+  <text x="88" y="758" fill="#BDEEFF" font-family="Arial,sans-serif" font-size="45" font-weight="700">THINK. PROMPT. CONQUER.</text>
+  <g transform="translate(90 862)" fill="none" stroke="#fff" stroke-width="4"><rect width="900" height="210" rx="30"/><path d="M55 65h370M55 112h580M55 159h468" stroke-opacity=".62"/><path d="m805 61 58 44-58 44" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="88" y="1160" fill="#fff" font-family="Arial,sans-serif" font-size="28">Put your AI and prompting skills</text><text x="88" y="1200" fill="#fff" font-family="Arial,sans-serif" font-size="28">to the test.</text>
+  <text x="88" y="1280" fill="#fff" fill-opacity=".72" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">TEAM SIZE 2–3 · REGISTRATION OPEN</text>
+</svg>

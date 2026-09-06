@@ -1,0 +1,249 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap");
+@import "tailwindcss";
+
+/* =============================================
+   iCONCLAVE 2026 — Design System
+   ============================================= */
+
+@theme inline {
+  /* Brand Colors */
+  --color-brand-blue: #1455D9;
+  --color-brand-violet: #6633CC;
+  --color-brand-magenta: #C5229E;
+
+  /* Neutrals */
+  --color-ink: #111111;
+  --color-ink-secondary: #5F6368;
+  --color-ink-muted: #8A8F98;
+  --color-border: #E7E8EC;
+  --color-surface: #F7F8FA;
+  --color-white: #FFFFFF;
+
+  /* Fonts */
+  --font-display: "Space Grotesk", "Manrope", system-ui, sans-serif;
+  --font-body: "Inter", "Manrope", system-ui, sans-serif;
+
+  /* Transitions */
+  --default-transition-duration: 300ms;
+  --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* =============================================
+   Base Styles
+   ============================================= */
+:root {
+  --background: #ffffff;
+  --foreground: #111111;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body);
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+/* =============================================
+   Typography Scale
+   ============================================= */
+.font-display {
+  font-family: var(--font-display);
+}
+
+.text-hero {
+  font-size: clamp(3.5rem, 9vw, 9rem);
+  line-height: 0.92;
+  letter-spacing: -0.03em;
+  font-family: var(--font-display);
+  font-weight: 700;
+}
+
+.text-display {
+  font-size: clamp(2.5rem, 6vw, 6rem);
+  line-height: 0.94;
+  letter-spacing: -0.025em;
+  font-family: var(--font-display);
+  font-weight: 700;
+}
+
+.text-editorial {
+  font-size: clamp(2rem, 4.5vw, 4.5rem);
+  line-height: 1.0;
+  letter-spacing: -0.02em;
+  font-family: var(--font-display);
+  font-weight: 700;
+}
+
+.text-section {
+  font-size: clamp(1.5rem, 3vw, 3rem);
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  font-family: var(--font-display);
+  font-weight: 600;
+}
+
+.text-label {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-family: var(--font-body);
+}
+
+/* =============================================
+   Focus & Accessibility
+   ============================================= */
+:focus-visible {
+  outline: 2px solid #1455D9;
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* =============================================
+   Selection
+   ============================================= */
+::selection {
+  background-color: #1455D920;
+  color: #111111;
+}
+
+/* =============================================
+   Scrollbar (subtle)
+   ============================================= */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F7F8FA;
+}
+::-webkit-scrollbar-thumb {
+  background: #E7E8EC;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8A8F98;
+}
+
+/* =============================================
+   Reduced Motion
+   ============================================= */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* =============================================
+   Utility Classes
+   ============================================= */
+.section-padding {
+  padding-top: clamp(3rem, 6vw, 6rem);
+  padding-bottom: clamp(3rem, 6vw, 6rem);
+}
+
+.container-wide {
+  width: 100%;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: clamp(1.25rem, 5vw, 4rem);
+  padding-right: clamp(1.25rem, 5vw, 4rem);
+}
+
+.container-narrow {
+  width: 100%;
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: clamp(1.25rem, 5vw, 4rem);
+  padding-right: clamp(1.25rem, 5vw, 4rem);
+}
+
+/* gradient text utility */
+.gradient-text {
+  background: linear-gradient(135deg, #1455D9 0%, #6633CC 50%, #C5229E 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* =============================================
+   Accordion animation
+   ============================================= */
+.accordion-content {
+  overflow: hidden;
+}
+
+/* =============================================
+   Hero ambient animation
+   ============================================= */
+.hero-grid {
+  background-image:
+    linear-gradient(to right, rgba(17, 17, 17, 0.035) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(17, 17, 17, 0.035) 1px, transparent 1px);
+  background-size: 56px 56px;
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), transparent 88%);
+}
+
+.hero-orb {
+  position: absolute;
+  border-radius: 9999px;
+  pointer-events: none;
+  filter: blur(8px);
+  will-change: transform;
+  animation: hero-float 14s ease-in-out infinite alternate;
+}
+
+.hero-orb-one {
+  top: 7%;
+  right: 7%;
+  width: clamp(16rem, 34vw, 34rem);
+  height: clamp(16rem, 34vw, 34rem);
+  background: radial-gradient(circle, rgba(102, 51, 204, 0.16), transparent 70%);
+}
+
+.hero-orb-two {
+  bottom: 0;
+  left: -8%;
+  width: clamp(18rem, 38vw, 38rem);
+  height: clamp(18rem, 38vw, 38rem);
+  background: radial-gradient(circle, rgba(20, 85, 217, 0.12), transparent 70%);
+  animation-delay: -5s;
+  animation-duration: 18s;
+}
+
+.hero-orb-three {
+  top: 42%;
+  left: 48%;
+  width: clamp(12rem, 25vw, 25rem);
+  height: clamp(12rem, 25vw, 25rem);
+  background: radial-gradient(circle, rgba(197, 34, 158, 0.1), transparent 70%);
+  animation-delay: -9s;
+  animation-duration: 16s;
+}
+
+@keyframes hero-float {
+  0% {
+    transform: translate3d(-2%, -2%, 0) scale(0.96);
+  }
+  50% {
+    transform: translate3d(5%, 3%, 0) scale(1.04);
+  }
+  100% {
+    transform: translate3d(-1%, 7%, 0) scale(1);
+  }
+}

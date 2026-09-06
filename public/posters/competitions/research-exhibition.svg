@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="t d">
+  <title id="t">Research Exhibition competition poster</title><desc id="d">Research. Reveal. Revolve.</desc>
+  <defs><linearGradient id="g" x1="40" y1="40" x2="1030" y2="1310" gradientUnits="userSpaceOnUse"><stop stop-color="#06251C"/><stop offset=".52" stop-color="#149B72"/><stop offset="1" stop-color="#1455D9"/></linearGradient></defs>
+  <rect width="1080" height="1350" rx="48" fill="url(#g)"/><g fill="none" stroke="#fff" stroke-opacity=".17" stroke-width="3"><circle cx="868" cy="270" r="240"/><circle cx="868" cy="270" r="164"/><circle cx="868" cy="270" r="88"/><path d="M628 270h480M868 30v480"/></g>
+  <text x="86" y="112" fill="#fff" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="5">iCONCLAVE — 2026</text><text x="994" y="112" fill="#fff" fill-opacity=".65" text-anchor="end" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">06 / 06</text>
+  <text x="82" y="455" fill="#fff" font-family="Arial,sans-serif" font-size="116" font-weight="900" letter-spacing="-6">RESEARCH</text><text x="82" y="572" fill="#fff" font-family="Arial,sans-serif" font-size="116" font-weight="900" letter-spacing="-6">EXHIBITION</text>
+  <text x="88" y="667" fill="#CBFFEC" font-family="Arial,sans-serif" font-size="40" font-weight="700">RESEARCH. REVEAL. REVOLVE.</text>
+  <g transform="translate(90 780)" fill="none" stroke="#fff" stroke-width="4"><rect width="900" height="310" rx="28"/><path d="M55 62h330M55 112h245M55 205l104-82 94 64 135-112 130 148 126-88 160 92" stroke-opacity=".75"/><path d="M55 260h790" stroke-opacity=".4"/></g>
+  <text x="88" y="1160" fill="#fff" font-family="Arial,sans-serif" font-size="28">Present your research through</text><text x="88" y="1200" fill="#fff" font-family="Arial,sans-serif" font-size="28">a compelling poster presentation.</text>
+  <text x="88" y="1280" fill="#fff" fill-opacity=".72" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">TEAM SIZE 2–3 · REGISTRATION OPEN</text>
+</svg>

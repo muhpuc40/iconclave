@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-labelledby="t d">
+  <title id="t">PITCH3 competition poster</title><desc id="d">3 Minds. 3 Minutes. 1 Impact.</desc>
+  <defs><linearGradient id="g" x1="90" y1="90" x2="990" y2="1260" gradientUnits="userSpaceOnUse"><stop stop-color="#07152F"/><stop offset=".52" stop-color="#1455D9"/><stop offset="1" stop-color="#6633CC"/></linearGradient><radialGradient id="r"><stop stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1080" height="1350" rx="48" fill="url(#g)"/><circle cx="864" cy="250" r="380" fill="url(#r)"/>
+  <text x="86" y="112" fill="#fff" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="5">iCONCLAVE — 2026</text><text x="994" y="112" fill="#fff" fill-opacity=".65" text-anchor="end" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">01 / 06</text>
+  <text x="82" y="460" fill="#fff" font-family="Arial,sans-serif" font-size="150" font-weight="900" letter-spacing="-7">PITCH3</text>
+  <text x="90" y="560" fill="#AFCBFF" font-family="Arial,sans-serif" font-size="46" font-weight="700">3 MINDS.</text><text x="90" y="620" fill="#D2C3FF" font-family="Arial,sans-serif" font-size="46" font-weight="700">3 MINUTES.</text><text x="90" y="680" fill="#fff" font-family="Arial,sans-serif" font-size="46" font-weight="700">1 IMPACT.</text>
+  <g transform="translate(90 805)" stroke="#fff" stroke-opacity=".7" fill="none"><circle cx="130" cy="110" r="96" stroke-width="4"/><circle cx="318" cy="110" r="96" stroke-width="4"/><circle cx="506" cy="110" r="96" stroke-width="4"/><path d="M226 110h-4M414 110h-4M602 110h210" stroke-width="4"/><circle cx="842" cy="110" r="30" fill="#fff"/></g>
+  <text x="90" y="1150" fill="#fff" font-family="Arial,sans-serif" font-size="28">Turn your research into a clear</text><text x="90" y="1190" fill="#fff" font-family="Arial,sans-serif" font-size="28">and impactful presentation.</text>
+  <text x="90" y="1280" fill="#fff" fill-opacity=".7" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">TEAM SIZE 2–3 · REGISTRATION OPEN</text>
+</svg>
